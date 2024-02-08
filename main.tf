@@ -1,4 +1,4 @@
-#calling vpc module
+#calling kaizen module
 module "kaizen" {
   source                   = "./modules/kaizen"
   az                       = var.az
